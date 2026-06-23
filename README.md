@@ -1,158 +1,143 @@
-# Hi, I'm Om Choudhary 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1021,50:1B4D89,100:00C2FF&text=Om%20Choudhary&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=52&desc=Agentic%20AI%20%7C%20Multimodal%20AI%20%7C%20Ambient%20AI%20%7C%20Production%20Systems&descAlign=50&descAlignY=58&descSize=18" />
+</p>
 
-### AI/ML Technical Lead | Agentic AI • Multimodal AI • Ambient AI | Building Production AI Systems
+<h1 align="center">Hi, I'm Om 👋</h1>
 
-I build AI systems that move from ambiguous ideas to measurable business impact.
+<p align="center">
+AI/ML Technical Lead building production AI systems from concept to deployment.
+</p>
 
-My work spans **agentic AI**, **multimodal systems**, **ambient AI**, **retrieval-augmented generation (RAG)**, **audio/NLP pipelines**, **edge inference**, and **distributed machine learning systems**.
-
----
-
-## Highlights
-
-🥈 **Kaggle March Machine Learning Mania 2026 — Silver Medal**
-
-* Ranked **51st out of 3,462 teams**
-* Ensemble learning, feature engineering, and pseudo-labeling approaches
-
-🧠 **NVIDIA Nemotron Reasoning Lab**
-
-* Reasoning-focused LLM experimentation
-* LoRA fine-tuning workflows
-* Evaluation and inference optimization
-
-🏆 **EB-1 Extraordinary Ability ("Einstein Visa") Recipient**
-
-📚 **Research Publications**
-
-* First-author publications in *Nature Structural & Molecular Biology*
-* Publications in *JACS*, *Journal of Molecular Biology*, and *PLOS ONE*
-
-💡 **Patents**
-
-* Inventor on machine learning and computer vision patents
-* AI-driven materials prediction patent filing
+<p align="center">
+🤖 Agentic AI • 🧠 Multimodal AI • 🎧 Audio AI • ⚡ GPU Inference • 📊 Distributed ML
+</p>
 
 ---
 
-## What I Build
+## 🚀 Quick Highlights
 
-### Agentic AI
+🥈 **Kaggle March Machine Learning Mania 2026 Silver Medal**  
+Ranked **51st out of 3,462 teams**
 
-* Multi-agent workflows
-* Tool orchestration
-* Safe execution patterns
-* Human escalation frameworks
-* Autonomous developer workflows
+🏆 **EB-1 Extraordinary Ability Recipient**
 
-### Multimodal AI
+📚 **First-author publications**
+- Nature Structural & Molecular Biology
+- JACS
+- Journal of Molecular Biology
+- PLOS ONE
 
-* Speech + vision + text systems
-* Ambient AI assistants
-* Clinical AI workflows
-* Audio understanding systems
-
-### LLM Platforms
-
-* Retrieval-Augmented Generation (RAG)
-* Evaluation frameworks
-* Fine-tuning pipelines
-* Inference optimization
-
-### Distributed Systems
-
-* Spark
-* Large-scale preprocessing
-* GPU inference pipelines
-* Production ML infrastructure
+💡 **Inventor on Machine Learning & Computer Vision Patents**
 
 ---
 
-## Featured Projects
+## 📸 Featured Achievement
 
-### Ambient Multimodal Clinical AI
+<p align="center">
+  <img src="./assets/kaggle-silver.png" width="750">
+</p>
 
-Multimodal ambient AI system combining speech transcription, handwriting understanding, retrieval, and clinical reasoning workflows.
-
-**Tech:** FastAPI, Whisper, OCR, RAG, Python
-
----
-
-### March Mania 2026 Silver Medal
-
-Kaggle competition solution ranked 51st out of 3,462 teams.
-
-**Tech:** Python, XGBoost, Ensemble Learning, Feature Engineering
+<p align="center">
+<b>Kaggle March Machine Learning Mania 2026 — Silver Medal</b>
+</p>
 
 ---
 
-### NVIDIA Nemotron Reasoning Lab
+## 🧠 What I Build
 
-Experiments with NVIDIA Nemotron reasoning models, LoRA fine-tuning, evaluation pipelines, and inference workflows.
-
-**Tech:** NVIDIA Nemotron, PyTorch, LoRA, LLM Evaluation
-
----
-
-### BirdCLEF Bioacoustic Soundscape AI
-
-Audio classification system for bird and environmental sound understanding.
-
-**Tech:** PyTorch, Audio ML, Deep Learning, Ensemble Methods
+| Agentic AI | Multimodal AI | Inference Systems |
+|------------|--------------|------------------|
+| Multi-agent systems | Speech | TensorRT |
+| Tool orchestration | Vision | CUDA |
+| Workflow automation | OCR | Edge AI |
+| Developer agents | Retrieval | Distributed ML |
 
 ---
 
-## Technical Areas
+## 🌟 Featured Projects
+
+### 🏥 Ambient Multimodal Clinical AI
+
+Speech transcription + handwriting OCR + retrieval + clinical reasoning.
+
+**Tech:** Whisper, OCR, RAG, FastAPI
+
+---
+
+### 🥈 March Mania 2026 Silver Medal
+
+Ensemble learning, feature engineering, pseudo-labeling, tournament prediction.
+
+**Tech:** Python, XGBoost, ML
+
+---
+
+### 🧠 NVIDIA Nemotron Reasoning Lab
+
+Reasoning-focused LLM workflows, LoRA fine-tuning, evaluation, and inference experimentation.
+
+**Tech:** Nemotron, PyTorch, LoRA
+
+---
+
+### 🎧 BirdCLEF Audio AI
+
+Bioacoustic soundscape classification and environmental audio understanding.
+
+**Tech:** Audio ML, PyTorch
+
+---
+
+## 🛠️ Tech Stack
 
 **AI / ML**
 
-* Agentic AI
-* Generative AI
-* LLMs
-* RAG
-* Fine-Tuning
-* Evaluation
+`PyTorch` `TensorFlow` `XGBoost` `Scikit-Learn`
 
-**Multimodal**
+**LLMs**
 
-* Audio
-* Vision
-* OCR
-* Speech Recognition
+`RAG` `LoRA` `Fine-Tuning` `Evaluation`
 
 **Infrastructure**
 
-* FastAPI
-* Docker
-* Kubernetes
-* Spark
-* Databricks
-* PostgreSQL
+`FastAPI` `Docker` `Kubernetes` `Databricks` `Spark`
 
 **Inference**
 
-* TensorRT
-* ONNX
-* CUDA
-* Edge AI
+`CUDA` `TensorRT` `ONNX`
 
 ---
 
-## Current Focus
+## 📈 Current Focus
 
-* Production agentic AI systems
-* Evaluation and observability for LLM applications
-* Ambient AI and multimodal reasoning
-* GPU inference optimization
-* Developer productivity agents
-
----
-
-## Connect
-
-* LinkedIn: https://www.linkedin.com/in/om-choudhary
-* GitHub: https://github.com/OmieChoudhary
+- Agentic AI systems
+- Ambient AI workflows
+- LLM evaluation & observability
+- GPU inference optimization
+- Developer productivity agents
 
 ---
 
-*"Production AI systems, not just model demos."*
+## 🎯 Why This GitHub Exists
+
+Most repositories here represent systems built to solve real-world problems.
+
+Topics you'll find across this profile:
+
+- Agentic AI
+- Ambient AI
+- Audio AI
+- Multimodal AI
+- Distributed ML
+- GPU Inference
+- Applied Research
+
+The goal isn't to showcase notebooks.
+
+The goal is to showcase systems.
+
+---
+
+<p align="center">
+<b>Production AI systems, not just model demos.</b>
+</p>
