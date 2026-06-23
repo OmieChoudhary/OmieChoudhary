@@ -150,3 +150,4 @@ That mix is why I enjoy AI engineering: the best systems are not just clever mod
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1021,50:1B4D89,100:00C2FF" />
 </p>
+<!-- profile README refresh -->
