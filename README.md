@@ -34,7 +34,7 @@ Ranked **51st out of 3,462 teams**
 ## 📸 Featured Achievement
 
 <p align="center">
-  <img src="./assets/kaggle-silver.png" width="750">
+  <img src="./images/kaggle-silver.png" width="750">
 </p>
 
 <p align="center">
