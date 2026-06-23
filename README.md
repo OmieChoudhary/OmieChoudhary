@@ -1,6 +1,6 @@
 <!--
-Profile README for github.com/back2om
-Create a public repository named exactly: back2om
+Profile README for github.com/OmieChoudhary
+Create a public repository named exactly: OmieChoudhary
 Place this README.md at the root of that repository.
 -->
 
@@ -9,7 +9,7 @@ Place this README.md at the root of that repository.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/om-choudhary/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="mailto:YOUR_PUBLIC_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" /></a>
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Multimodal%20ML%20%7C%20RAG-7B61FF" />
   <img src="https://img.shields.io/badge/Building-Production%20AI%20Systems-00A67E" />
