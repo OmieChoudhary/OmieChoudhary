@@ -57,6 +57,13 @@ Focused on color, spectra, materials appearance, masked spectral modeling, Delta
 
 ## 🌟 Featured Projects
 
+### 🧬 FoundationPretrainLab: Foundation Model Pretraining Research Systems
+
+A research-oriented repo for studying foundation model pretraining loops at a tractable scale: data construction, masked modeling, training configs, evaluation harnesses, scaling studies, and failure analysis.
+
+**Tech:** PyTorch, Transformers, Pretraining, Evaluation, Scaling Configs
+
+
 ### 🏥 Ambient Multimodal Clinical AI
 
 Speech transcription + handwriting OCR + retrieval + clinical reasoning.
@@ -111,32 +118,31 @@ Bioacoustic soundscape classification and environmental audio understanding.
 
 ## 📈 Current Focus
 
-- Agentic AI systems
-- Ambient AI workflows
-- LLM evaluation & observability
+- Foundation model pretraining
+- Training research systems
+- Evaluation harnesses
+- Scaling and ablation studies
+- Multimodal and agentic AI systems
 - GPU inference optimization
-- Developer productivity agents
-
 ---
 
 ## 🎯 Why This GitHub Exists
 
-Most repositories here represent systems built to solve real-world problems.
+Most repositories here represent research systems built to understand, evaluate, and deploy AI models.
 
 Topics you'll find across this profile:
 
-- Agentic AI
-- Ambient AI
-- Audio AI
+- Foundation Models
+- Pretraining Research
 - Multimodal AI
+- Agentic AI
 - Distributed ML
 - GPU Inference
-- Applied Research
+- Evaluation & Failure Analysis
 
 The goal isn't to showcase notebooks.
 
-The goal is to showcase systems.
-
+The goal is to showcase research systems.
 ---
 
 <p align="center">
