@@ -5,11 +5,11 @@
 <h1 align="center">Hi, I'm Om 👋</h1>
 
 <p align="center">
-AI/ML Technical Lead building production AI systems from concept to deployment.
+AI/ML Technical Lead building foundation model, scientific AI, and production AI systems from research to deployment
 </p>
 
 <p align="center">
-🤖 Agentic AI • 🧠 Multimodal AI • 🎧 Audio AI • ⚡ GPU Inference • 📊 Distributed ML
+🧬 Foundation Models • 🔬 Pretraining Research • 🎨 Scientific AI • 🧠 Multimodal AI • ⚡ GPU Inference • 📊 Distributed ML
 </p>
 
 ---
@@ -18,6 +18,9 @@ AI/ML Technical Lead building production AI systems from concept to deployment.
 
 🥈 **Kaggle March Machine Learning Mania 2026 Silver Medal**  
 Ranked **51st out of 3,462 teams**
+
+🧬 **Foundation Model Pretraining**  
+Focused on color, spectra, materials appearance, masked spectral modeling, DeltaE evaluation, objective ablations, scaling configs, and failure analysis.
 
 🏆 **EB-1 Extraordinary Ability Recipient**
 
@@ -42,16 +45,14 @@ Ranked **51st out of 3,462 teams**
 </p>
 
 ---
-
 ## 🧠 What I Build
 
-| Agentic AI | Multimodal AI | Inference Systems |
-|------------|--------------|------------------|
-| Multi-agent systems | Speech | TensorRT |
-| Tool orchestration | Vision | CUDA |
-| Workflow automation | OCR | Edge AI |
-| Developer agents | Retrieval | Distributed ML |
-
+| Foundation Models | Scientific AI | Pretraining Systems |
+|------------------|---------------|---------------------|
+| Masked modeling | Spectral learning | Objective ablations |
+| Multimodal models | Color science | Scaling experiments |
+| Evaluation harnesses | Materials appearance | Metric logging |
+| Agentic systems | DeltaE / CIEDE2000 | Failure analysis |
 ---
 
 ## 🌟 Featured Projects
